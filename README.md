@@ -250,6 +250,9 @@ A **next-generation developer portfolio** featuring glassmorphism UI, a global `
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/taimooraligill/">
     <img src="https://img.shields.io/badge/LinkedIn-taimooraligill-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/taimoorr_ali/">
+    <img src="https://img.shields.io/badge/Instagram-taimoorr__ali-0d1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
   </a>
 
   <br/><br/>
