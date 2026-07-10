@@ -23,15 +23,15 @@
   <br/>
 
   <!-- ═══════════ PORTFOLIO CTA ═══════════ -->
-  <a href="https://taimooraligill.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-taimooraligill.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117" alt="Portfolio" />
+  <a href="https://taimooraligill.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-taimooraligill.pages.dev-1f6feb?style=for-the-badge&logo=cloudflare&logoColor=ffffff&labelColor=0d1117" alt="Portfolio" />
   </a>
 
   <br/>
   <br/>
 
   <!-- ═══════════ QUICK BADGES ═══════════ -->
-  <a href="https://taimooraligill.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=0d1117" alt="Portfolio" /></a>&nbsp;
+  <a href="https://taimooraligill.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=0d1117" alt="Portfolio" /></a>&nbsp;
   <a href="https://github.com/taimooraligill?tab=repositories"><img src="https://img.shields.io/badge/Repos-8+-161b22?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Repos" /></a>&nbsp;
   <a href="https://github.com/taimooraligill"><img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-161b22?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=0d1117" alt="Focus" /></a>&nbsp;
   <a href="mailto:taimooraligill143@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117" alt="Email" /></a>&nbsp;
@@ -164,13 +164,13 @@ I'm a **Full Stack Developer & AI Engineer** from Pakistan, obsessed with crafti
   <br/><br/>
 
   <a href="https://github.com/taimooraligill/quantum-core-portfolio">
-    <img src="https://img.shields.io/badge/⚛️_Quantum_Core_Portfolio-Next_Gen_Design-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=161b22" alt="Quantum Core Portfolio" />
+    <img src="https://img.shields.io/badge/⚛️_Quantum_Core_Portfolio-Next_Gen_Design-0d1117?style=for-the-badge&logo=cloudflare&logoColor=58a6ff&labelColor=161b22" alt="Quantum Core Portfolio" />
   </a>
 
   <br/><br/>
 
-  <a href="https://taimooraligill.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/▶_Live_Demo-taimooraligill.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=1f6feb" alt="Live Demo" />
+  <a href="https://taimooraligill.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/▶_Live_Demo-taimooraligill.pages.dev-58a6ff?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=1f6feb" alt="Live Demo" />
   </a>
 
 </div>
@@ -186,7 +186,7 @@ An **autonomous AI SDR** platform that automates the entire sales pipeline — f
 
 ---
 
-### ⚛️ Quantum Core Portfolio &nbsp;[![Live](https://img.shields.io/badge/🔗_Live-taimooraligill.vercel.app-58a6ff?style=flat-square&labelColor=161b22)](https://taimooraligill.vercel.app)
+### ⚛️ Quantum Core Portfolio &nbsp;[![Live](https://img.shields.io/badge/🔗_Live-taimooraligill.pages.dev-58a6ff?style=flat-square&labelColor=161b22)](https://taimooraligill.pages.dev)
 A **next-generation developer portfolio** featuring glassmorphism UI, a global `⌘K` command terminal powered by **Gemini AI**, an AI chatbot assistant, scroll-spy navigation, and buttery-smooth micro-animations throughout — engineered to feel alive.
 
 `Next.js 14` `Framer Motion` `Gemini API` `Tailwind CSS` `TypeScript`
@@ -239,8 +239,8 @@ A **next-generation developer portfolio** featuring glassmorphism UI, a global `
 
   <br/>
 
-  <a href="https://taimooraligill.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-taimooraligill.vercel.app-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" />
+  <a href="https://taimooraligill.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-taimooraligill.pages.dev-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://github.com/taimooraligill">
     <img src="https://img.shields.io/badge/GitHub-taimooraligill-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
